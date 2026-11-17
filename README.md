@@ -1,3 +1,15 @@
+## Experimental CRT Fast Shader Fork
+
+This is an experimental, unofficial fork of [DD2Recomp](https://github.com/gabbycat4/DD2Recomp).
+
+The goal of this fork is to explore the possibility of adding lightweight CRT shader support, with a particular focus on **CRT Fast**, while preserving the original project's performance, visual quality and gameplay experience.
+
+This fork is also a personal learning project focused on understanding the rendering pipeline and exploring graphics programming.
+
+**Current status:** Experimental development. CRT shader support is a work in progress and is not yet implemented.
+
+All credit for the original project goes to [gabbycat4](https://github.com/gabbycat4).
+
 # Double Dragon II Recompiled
 
 A native PC port of **Double Dragon II: The Revenge** (NES, USA Rev 1), built
